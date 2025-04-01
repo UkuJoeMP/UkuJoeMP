@@ -1,4 +1,4 @@
-!UkuJoeMP
+![UkuJoeMP (1)]()
 <h1 align="center">Hi 👋, I'm Jose M. Pinto</h1>
 <h3 align="center">A passionate frontend developer from Ecuador. Web developer in transition with over 5 years of experience in communication, translation, and digital content. My knowledge of copywriting and social media has allowed me to understand digital impact and user experience, skills that I apply in developing functional and intuitive web solutions. With experience in JavaScript, React, and Python, I specialize in creating dynamic interfaces, API integration, and responsive design. I seek to contribute my analytical and creative approach to technological projects that optimize digital interaction and performance.</h3>
 
